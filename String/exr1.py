@@ -1,6 +1,6 @@
 nome = 'Rafael'
 sobrenome = 'Almeida'
 
-s = nome + " " + sobrenome
+s = nome + " " + sobrenomee
 
 print(s)
